@@ -11,7 +11,7 @@ _For use on **unmodified stock Android phones without voiding the warranty**!_
 [![KeX](../images/020-NH-Rootless-KeX_s.jpg)](../images/020-NH-Rootless-KeX.jpg)
 # One clik install kali nethunter
 ```bash
-pkg update && pkg upgrade && pkg install git && pkg install python && https://github.com/mdarif76769/kali-nethunter-rootless.git && cd kali-nethunter-rootless && bash install-nethunter-termux.sh
+pkg update && pkg upgrade && pkg install git && pkg install python && git clone https://github.com/mdarif76769/kali-nethunter-rootless.git && cd kali-nethunter-rootless && bash install-nethunter-termux.sh
 ```
 ## Prerequisite:
 
