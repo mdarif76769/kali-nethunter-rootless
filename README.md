@@ -14,7 +14,10 @@ _For use on **unmodified stock Android phones without voiding the warranty**!_
 pkg update && pkg upgrade
 ```
 ```bash
- pkg install git && pkg install python
+ pkg install git
+```
+```bash
+pkg install python
 ```
 ```bash
 git clone https://github.com/mdarif76769/kali-nethunter-rootless.git
