@@ -6,7 +6,7 @@ _Kali Linux CLI and KeX using Termux_
 
 _For use on **unmodified stock Android phones without voiding the warranty**!_
 
-![[Termux Menu](Screnshot/Screenshot_2026-05-14-05-40-20-651_com.termux.jpg)
+![Termux Menu](Screnshot/Screenshot_2026-05-14-05-40-20-651_com.termux.jpg)
 
 ![KeX](Screnshot/images.png)
 ![KeX](Screnshot/images.jpeg)
