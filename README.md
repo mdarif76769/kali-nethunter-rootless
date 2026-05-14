@@ -6,9 +6,11 @@ _Kali Linux CLI and KeX using Termux_
 
 _For use on **unmodified stock Android phones without voiding the warranty**!_
 
-[![Termux Menu](../images/010-NH-Rootless-Installation_Start_s.jpg)](../images/010-NH-Rootless-Installation_Start.jpg)
+![[Termux Menu](Screnshot/Screenshot_2026-05-14-05-40-20-651_com.termux.jpg)
 
-[![KeX](../images/020-NH-Rootless-KeX_s.jpg)](../images/020-NH-Rootless-KeX.jpg)
+![KeX](Screnshot/images.png)
+![KeX](Screnshot/images.jpeg)
+
 # One clik install kali nethunter
 ```bash
 pkg update && pkg upgrade
